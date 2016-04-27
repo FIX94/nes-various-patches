@@ -1,2 +1,2 @@
-# nes-continue-patches
-ips patches to remove continue limits from nes games
+I'm not exactly a fan of continue limits so just for some more experience I looked at how to remove these limits.  
+If you happen to have any game you want to see patched just open up a issue with your request, I like looking at different games ;)
