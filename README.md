@@ -4,7 +4,8 @@ About the "Music Speed Hack" patch:
 Even though the PAL version of megaman 2 had its pitch adjusted, it still has awfully slow music playback speed.  
 This patch will make its music play MUCH closer to the NTSC speed, both intro and ending visuals also had its speed adjusted to match the now faster music playback better.  
 About the "Music Only" patch:  
-This patch will make the game boot directly into a menu from which you can listen to any track in the game, sort of like a nsf music file, just in ROM form.  
+The patch for journey to silius will make the game boot directly into a menu from which you can listen to any track in the game, sort of like a nsf music file, just in ROM form.  
+Batman did not have such a menu so this is just a simple hack that starts playing the first track with a black screen and allows you to press start to move to the next track.  
 About the "Everdrive N8" fix:  
 The game will boot up seemingly fine but there will be minor graphical glitches with the current EverDrive OS (v16) because of a misinterpreted register write, this patch will remove that write to not cause that issue anymore.  
 How to apply these patches:  
