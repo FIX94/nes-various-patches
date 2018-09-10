@@ -14,7 +14,7 @@ Gimmicks sound test is accessed by pressing select+start on the title screen, it
 It also makes the cursor color change far more often to the music than it did in the original music sampler to make it a bit more visually interesting.    
 
 About the "Complete Sound Test" patch:  
-Batmans sound test is accessed by pressing a+start on the title screen, it is missing 2 music tracks and 25 sound effects in total, this patch makes all of them accessable.  
+Batmans sound test is accessed by pressing a+start on the title screen, it is missing 2 music tracks and 15 sound effects in total, this patch makes all of them accessable.  
 Also the original select system went from A-Z, now instead it goes by numbers, so in the music case, 01-15 and in the sound effect case 01-41.    
 
 About the "Everdrive N8" fix:  
