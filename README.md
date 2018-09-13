@@ -8,6 +8,7 @@ This patch will make its music play MUCH closer to the NTSC speed, both intro (i
 About the "Music Only" patch:  
 The patch for journey to silius will make the game boot directly into a menu from which you can listen to any track in the game, sort of like a nsf music file, just in ROM form.  
 Batman did not have such a menu so this is just a simple hack that starts playing the first track with a black screen and allows you to press start to move to the next track.    
+Super Spy Hunter also did not have a menu so for that you press start on the title, it will play the first track, from there you can press start to move to the next track just like in batman.  
 
 About the "Complete Music Sampler" patch:  
 Gimmicks sound test is accessed by pressing select+start on the title screen, it is missing the track "Evidence of My Life" and an alternative version of the track "Cadbury", this patch adds both of these tracks to it.  
