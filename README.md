@@ -3,7 +3,8 @@ I'm not exactly a fan of continue limits so just for some more experience I look
 
 About the "Music Speed Hack" patch:  
 Even though the PAL versions of megaman 1 and megaman 2 had its pitch adjusted, it still has awfully slow music playback speed.  
-This patch will make its music play MUCH closer to the NTSC speed, both intro (in megaman 2) and ending (in megaman 1 and 2) visuals also had its speed adjusted to match the now faster music playback better.    
+This patch will make its music play MUCH closer to the NTSC speed, both intro (in megaman 2) and ending (in megaman 1 and 2) visuals also had its speed adjusted to match the now faster music playback better.  
+The patch for PAL castlevania does adjust both pitch and speed, because that title did not have either adjusted.    
 
 About the "Music Only" patch:  
 The patch for journey to silius will make the game boot directly into a menu from which you can listen to any track in the game, sort of like a nsf music file, just in ROM form.  
