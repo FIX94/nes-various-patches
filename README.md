@@ -8,7 +8,8 @@ The patch for PAL castlevania does adjust both pitch and speed, because that tit
 
 About the "Music Only" patch:  
 The patch for journey to silius will make the game boot directly into a menu from which you can listen to any track in the game, sort of like a nsf music file, just in ROM form.  
-Batman did not have such a menu so this is just a simple hack that starts playing the first track with a black screen and allows you to press start to move to the next track.    
+Batman did not have such a menu so this is just a simple hack that starts playing the first track with a black screen and allows you to press start to move to the next track.  
+Gremlins 2 - The New Batch works exactly like batmans music only patch, just a black screen and you being able to press start to go to the next track.  
 Super Spy Hunter also did not have a menu so for that you press start on the title, it will play the first track, from there you can press start to move to the next track just like in batman.  
 
 About the "Complete Music Sampler" patch:  
