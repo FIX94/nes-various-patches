@@ -1,12 +1,13 @@
 About the "Infinite Continue" patches:  
 I'm not exactly a fan of continue limits so just for some more experience I looked at how to remove these limits.    
 
-About the "Music Speed Hack" patch:  
+About the "PAL Music Speed Hack" patches:  
 Even though the PAL versions of megaman 1 and megaman 2 had its pitch adjusted, it still has awfully slow music playback speed.  
 This patch will make its music play MUCH closer to the NTSC speed, both intro (in megaman 2) and ending (in megaman 1 and 2) visuals also had its speed adjusted to match the now faster music playback better.  
+Megaman 6 never had a PAL release, so apply this patch to the US version of the game, it patches the music to play at PAL speed and fix its pitch, as well as adjust intro and ending visuals for this new speed.  
 The patch for PAL castlevania does adjust both pitch and speed, because that title did not have either adjusted.    
 
-About the "Music Only" patch:  
+About the "Music Only" patches:  
 The patch for journey to silius will make the game boot directly into a menu from which you can listen to any track in the game, sort of like a nsf music file, just in ROM form.  
 Batman did not have such a menu so this is just a simple hack that starts playing the first track with a black screen and allows you to press start to move to the next track.  
 Gremlins 2 - The New Batch works exactly like batmans music only patch, just a black screen and you being able to press start to go to the next track.  
