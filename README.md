@@ -1,6 +1,10 @@
 About the "Infinite Continue" patches:  
 I'm not exactly a fan of continue limits so just for some more experience I looked at how to remove these limits.    
 
+About the "PAL Music Pitch Hack" patch:  
+Batman had its speed adjusted to PAL, but the music pitch remained unchanged, leading to its notes being too low compared to the NTSC original.  
+This patch adjusts the pitch of all notes to be much closer to the NTSC original version.    
+
 About the "PAL Music Speed Hack" patches:  
 Even though the PAL versions of megaman 1 and megaman 2 had its pitch adjusted, it still has awfully slow music playback speed.  
 This patch will make its music play MUCH closer to the NTSC speed, both intro (in megaman 2) and ending (in megaman 1 and 2) visuals also had its speed adjusted to match the now faster music playback better.  
