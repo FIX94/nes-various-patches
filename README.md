@@ -9,7 +9,7 @@ About the "PAL Music Speed Hack" patches:
 Even though the PAL versions of megaman 1 and megaman 2 had its pitch adjusted, it still has awfully slow music playback speed.  
 This patch will make its music play MUCH closer to the NTSC speed, both intro (in megaman 2) and ending (in megaman 1 and 2) visuals also had its speed adjusted to match the now faster music playback better. Also the broken sound effects of both megaman 1 and 2 have now been fixed and play back very close to the original NTSC releases.  
 Megaman 6 never had a PAL release, so apply this patch to the US version of the game, it patches the music to play at PAL speed and fix its pitch, as well as adjust intro and ending visuals for this new speed.  
-The patch for PAL castlevania does adjust both pitch and speed, because that title did not have either adjusted.    
+The patch for PAL castlevania does adjust both pitch and speed, because that title did not have either adjusted. The same goes for contra, note that its patch applies to the US version of the game, and makes the music run at proper speed when running on PAL.    
 
 About the "Music Only" patches:  
 The patch for journey to silius will make the game boot directly into a menu from which you can listen to any track in the game, sort of like a nsf music file, just in ROM form.  
