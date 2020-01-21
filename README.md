@@ -29,6 +29,13 @@ Also the original select system went from A-Z, now instead it goes by numbers, s
 About the "Everdrive N8" fix:  
 The game will boot up seemingly fine but there will be minor graphical glitches with the current EverDrive OS (v16) because of a misinterpreted register write, this patch will remove that write to not cause that issue anymore.    
 
+About the PAL Shatterhand fixes:
+1) centered "push start" text on title screen
+2) fixed 2 incorrectly drawn tiles on "wallcrawler" enemy sprite
+3) fixed 2 incorrectly drawn tiles on stage A boss sprite
+4) fixed incorrect tiles on the opening cutscene
+5) fixed incorrectly set color emphasis set in the final stage
+
 How to apply these patches:  
 Click on the patch you want and click the "Download" button in the right of the page that opens.  
 These .ips patches can then be applied with a program such as Lunar IPS, in it simply select the .ips patch and the original ROM file you want it to be applied to, this will modify that ROM with the selected .ips patch.    
